@@ -13,4 +13,6 @@ Get.TableColumnHeaders: @ArrayOfColumnHeaders
 SQL.RunQuery: #PlannedOrder,declare @poid int;select @poid=id from dbo.PlannedOrders where OrderNumber='[@TargetedPlannedOrder]';update dbo.WipItems set PlannedOrderId=@poid where SerialNumber='[@OrderNumber]'
 LogScreenshot: Validate details of each WIP serial number in grid as shown in attachment
 
-hehehe
+jw00053
+
+jw00040
