@@ -14,6 +14,6 @@ SQL.RunQuery: #PlannedOrder,declare @poid int;select @poid=id from dbo.PlannedOr
 LogScreenshot: Validate details of each WIP serial number in grid as shown in attachment
 
 jw00053
-jw00053
+
 jw00040
 jw00040
