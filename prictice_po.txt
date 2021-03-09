@@ -17,6 +17,6 @@ LogScreenshot: Validate details of each WIP serial number in grid as shown in on
 jw00052
 
 jw00041
-jw00040
+jw0004000000
 no-ff
 Stash
